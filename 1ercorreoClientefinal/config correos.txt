@@ -1,0 +1,9 @@
+idcrnews@gmail.com
+4naSofia
+smtp.gmail.com
+587
+ssl true
+
+patricia@ideascontrol.com
+
+IDCRNews
